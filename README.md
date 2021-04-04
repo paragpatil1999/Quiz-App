@@ -73,15 +73,15 @@ Dart as Programming Language
 
 ## POSSIBLE ADDITIONS:
 
-A future version will have different views for a different level of
+1)A future version will have different views for a different level of
 users such as quiz create, quiz solver,
-allow multiple authentication methods like Gmail, mobile
+2)Allow multiple authentication methods like Gmail, mobile
 number, etc.
-allow a various number of options in the quiz
-allow images as questions as well as options in a quiz
-In the next version, we will keep a record of the results of
-individuals.
-Also, we can keep start time, end time details of individuals for a
+3)Allow a various number of options in the quiz
+4)Allow images as questions as well as options in a quiz
+5)In the next version, we will keep a record of the results of
+  individuals.
+6)Also, we can keep start time, end time details of individuals for a
 particular quiz
 
 
