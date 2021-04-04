@@ -28,7 +28,7 @@ quiz
 Using this quiz it is easy to take a quiz in such a pandemic situation
 where everything is digital so that our testing pattern is
 
-Characteristics of the app:
+## Characteristics of the app:
 
 1)User authentication
 2)Quiz Creation
@@ -45,27 +45,28 @@ Flutter for UI
 3)Dart:
 Dart as Programming Language
 
-![image](https://user-images.githubusercontent.com/42301397/113504330-13178780-9555-11eb-9fca-7ab028a85db4.png)
+![image--001](https://user-images.githubusercontent.com/42301397/113504443-ba94ba00-9555-11eb-9f7f-ded029b6326e.png)
 
-![image](https://user-images.githubusercontent.com/42301397/113504337-1f034980-9555-11eb-894b-3eccf1118d0d.png)
+![image--002](https://user-images.githubusercontent.com/42301397/113504453-cc765d00-9555-11eb-9e5a-24f7fbf97c88.png)
 
-#User Authentication
+
+## User Authentication
 
 
 ![image](https://user-images.githubusercontent.com/42301397/113504346-262a5780-9555-11eb-9d03-52c0b33b68bd.png)
 
-#Home
+## Home
 
 ![image](https://user-images.githubusercontent.com/42301397/113504354-36423700-9555-11eb-9043-873741249c78.png)
 
-#Create Quiz
+## Create Quiz
 
 ![image](https://user-images.githubusercontent.com/42301397/113504366-45c18000-9555-11eb-8ba7-29ee121c2dfe.png)
 
-#Sample Quiz
+## Sample Quiz
 
 
-#POSSIBLE ADDITIONS:
+## POSSIBLE ADDITIONS:
 
 A future version will have different views for a different level of
 users such as quiz create, quiz solver,
