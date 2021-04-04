@@ -47,8 +47,8 @@ Dart as Programming Language
 
 ## User Authentication
 
-
-![image--001](https://user-images.githubusercontent.com/42301397/113504443-ba94ba00-9555-11eb-9f7f-ded029b6326e.png width="400" height="790")
+<img src="https://user-images.githubusercontent.com/42301397/113504443-ba94ba00-9555-11eb-9f7f-ded029b6326e.png" width="100" height="100">
+![image--001](https://user-images.githubusercontent.com/42301397/113504443-ba94ba00-9555-11eb-9f7f-ded029b6326e.png)
 
 ![image--002](https://user-images.githubusercontent.com/42301397/113504453-cc765d00-9555-11eb-9e5a-24f7fbf97c88.png)
 
