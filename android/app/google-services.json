@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "791965711142",
+    "project_id": "quizcreater-a2d2f",
+    "storage_bucket": "quizcreater-a2d2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791965711142:android:c294b26c77810e586bdfe7",
+        "android_client_info": {
+          "package_name": "com.example.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791965711142-psbejbc1o4igav4biqv8bqmq2gj0jqoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzzwwvhCY2eKG2nV0NvdbF-hKavsJ4bOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791965711142-psbejbc1o4igav4biqv8bqmq2gj0jqoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
