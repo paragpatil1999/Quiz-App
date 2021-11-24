@@ -35,6 +35,7 @@ where everything is digital so that our testing pattern is
 3)Quiz Solving Platform
 
 What we used :
+
 1)Firebase:
 Firebase as a Database server (Firebase uses NoSQL Database )
 
